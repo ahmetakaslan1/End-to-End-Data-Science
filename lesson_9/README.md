@@ -18,4 +18,4 @@ Veriyi temizleyip görselleştirdikten sonraki son aşama "Tahmin" (Prediction) 
 ---
 
 ### Sıradaki Adım (Ders 10)
-Klasik ve en keyifli adımla, yani **Veri Görselleştirme** ile Faz 2'ye başlıyoruz. Sayıları çizgilere ve renklere dönüştürmeye hazır ol!
+Klasik ve en keyifli adımla, yani **Veri Görselleştirme** ile Faz 2'ye başlıyoruz. Sayıları çizgilere ve renklere dönüştürelim.
