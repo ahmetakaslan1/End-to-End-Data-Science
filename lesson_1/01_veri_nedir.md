@@ -1,4 +1,4 @@
-# Bizler ders 4 te csv, python ile  veri analizi yapacaz ama şimditemelleri atalım.
+# Bizler ders 4 te csv, python ile  veri analizi yapacaz ama şimdi temelleri atalım.
 
 # Ders 1: Veri Nedir?
 
