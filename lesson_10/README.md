@@ -8,6 +8,8 @@ Bu klasörde yer alan dosyalar:
 1. `satis_verileri.csv`: Önceki projeden tanıdığımız veri seti.
 2. `grafik_ciz.py`: Şehirlere göre satış toplamlarını alıp bunu bir Çubuk (Bar) grafiğe döken kodumuz.
 
+<img width="797" height="682" alt="Image" src="https://github.com/user-attachments/assets/433fd849-c513-4c2f-9146-3a3ab502d778" />
+
 ### Görev
 1. Öncelikle `grafik_ciz.py` dosyasını terminalden çalıştırın. (Eğer `No module named 'matplotlib'` gibi bir hata alırsanız, terminale `pip install matplotlib` yazarak bu kütüphaneyi kurabilirsiniz).
 2. Kod çalıştıktan sonra ekranda açılan grafik penceresini inceleyin. Hangi çubuğun en yüksek olduğuna (Ankara) sadece saniyenin onda biri sürede karar verebildiğinizi fark edin!
