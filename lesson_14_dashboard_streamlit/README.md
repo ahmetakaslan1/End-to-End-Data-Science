@@ -15,6 +15,7 @@ streamlit run app.py
 ```
 
 Bu komutu yazdığında sisteminde kendi kendine çalışan bir web sunucusu (Server) başlayacak ve otomatik olarak tarayıcında harika bir arayüz açılacak!
+<img width="1904" height="896" alt="Image" src="https://github.com/user-attachments/assets/bbb7c859-cb51-425c-aca3-fd80851d64f3" />
 
 ### Bu Dashboard Neler Yapıyor?
 1. Veritabanına (Docker üzerindeki PostgreSQL) canlı olarak bağlanıyor.
